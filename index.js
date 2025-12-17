@@ -2,9 +2,9 @@ let quote = "...ask not what your country can do for you — ask what you can do
 
 //Add code below
 
-let length = quotelength;
-let secondletter = quote;
-let quotelength = output;
+let 'quote' = "quotelength";
+let 'quote' = "secondletter";
+let 'output' = "quotelength"
 let output = [secondletter];
 
 document.getElementById("result").innerHTML = output
