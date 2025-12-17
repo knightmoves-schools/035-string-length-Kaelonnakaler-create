@@ -3,8 +3,8 @@ let quote = "...ask not what your country can do for you — ask what you can do
 //Add code below
 
  quoteLength = "quote";
- SecondLetter = "quote";
- quoteLength = "output"
-  SecondLetter = [output];
+ Secondletter = "second character";
+ 'quoteLength' = "output"
+  'output' = [SecondLetter];
 
 document.getElementById("result").innerHTML = [output]
